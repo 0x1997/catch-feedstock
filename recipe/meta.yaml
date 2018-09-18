@@ -1,12 +1,12 @@
 package:
   name: catch2
-  version: 2.0.1
+  version: 2.4.0
 
 source:
-  url: https://github.com/catchorg/Catch2/releases/download/v2.0.1/catch.hpp
-  md5: 9b3d2cb5c0f9532cddfbbfd0a622f0af
-  sha1: a621ff58c338de1aac383ed95a31343fa5366c10
-  sha256: 6988c82def026a0b862f43ab122bbbd6051b0b7648bfe04c8a150ef62ca5a0a2
+  url: https://github.com/catchorg/Catch2/releases/download/v2.4.0/catch.hpp
+  md5: fb293b2100b23f6567c0fb683c485d87
+  sha1: 1670a86d497ae956fbc244a19723629447b56f0e
+  sha256: 41522232a2459bb0a078cb1fc8c20c0c082fd762afe2fb54cbb94f1aa538e244
 
 build:
   # If the installation is complex, or different between Unix and Windows, use
